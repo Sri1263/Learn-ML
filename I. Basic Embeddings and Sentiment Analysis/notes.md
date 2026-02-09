@@ -1,6 +1,6 @@
 # What did I cover
 
-Simple NLP use case like spam detection
+Simple NLP use case - Sentiment Analysis
 
 1.  Preprocessing / Data Cleaning:
     -   Remove noise - empty spaces, numbers, punctuation, etc.
